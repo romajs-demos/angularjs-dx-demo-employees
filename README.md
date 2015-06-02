@@ -1,4 +1,4 @@
-employees []
+employees
 =========
 
 AngularJS Sample
