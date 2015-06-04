@@ -8,6 +8,8 @@ A small CRUD application for employees management.
 
 This is a demo project featuring AngularJS, RestEasy, CDI and JPA/Hibernate running with Jetty and HsqlDB.
 
+![](http://s6.postimg.org/zch2aoood/demo_angularjs_employees.png)
+![](http://s6.postimg.org/k512qbwtp/demo_angularjs_employees_tests.png)
 
 Requirements:
 
