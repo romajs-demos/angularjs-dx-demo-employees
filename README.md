@@ -1,6 +1,5 @@
-employees
-=========
-
+angularjs-dx-demo-employees
+===========================
 
 AngularJS Sample.
 
